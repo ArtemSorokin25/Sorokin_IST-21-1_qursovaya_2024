@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Что такое модуль в Java?",
+    "options": ["A) Библиотека", "B) Класс", "C) Пакет", "D) Интерфейс"],
+    "answer": "C) Пакет"
+  },
+  {
+    "question": "Какой модификатор доступа используется для классов, интерфейсов и методов, чтобы они были видны только внутри пакета?",
+    "options": ["A) public", "B) private", "C) protected", "D) default"],
+    "answer": "D) default"
+  },
+  {
+    "question": "Какой оператор используется для импорта класса из другого пакета в Java?",
+    "options": ["A) import", "B) include", "C) require", "D) use"],
+    "answer": "A) import"
+  },
+  {
+    "question": "Какой ключевой момент используется для наследования в Java?",
+    "options": ["A) extends", "B) implements", "C) inherits", "D) extends/implements"],
+    "answer": "A) extends"
+  },
+  {
+    "question": "Какой модификатор доступа используется, чтобы разрешить доступ к члену класса только внутри его собственного пакета и подклассам?",
+    "options": ["A) public", "B) private", "C) protected", "D) default"],
+    "answer": "C) protected"
+  },
+  {
+    "question": "Какие ключевые слова используются для создания интерфейсов в Java?",
+    "options": ["A) interface", "B) class", "C) interface/class", "D) implements"],
+    "answer": "A) interface"
+  },
+  {
+    "question": "Какой модификатор доступа используется для членов класса, которые видны только внутри класса?",
+    "options": ["A) public", "B) private", "C) protected", "D) default"],
+    "answer": "B) private"
+  },
+  {
+    "question": "Какие из следующих утверждений верны для модулей Java?",
+    "options": ["A) Модули предоставляют лучшую инкапсуляцию", "B) Модули могут содержать пакеты", "C) Модули могут импортировать другие модули", "D) Все вышеперечисленное"],
+    "answer": "D) Все вышеперечисленное"
+  },
+  {
+    "question": "Какие из следующих ключевых слов используются для управления экспортом пакетов в модуле?",
+    "options": ["A) exports", "B) opens", "C) provides", "D) requires"],
+    "answer": "A) exports"
+  },
+  {
+    "question": "Какие модификаторы доступа можно использовать внутри модуля Java?",
+    "options": ["A) public", "B) private", "C) protected", "D) default"],
+    "answer": "A) public"
+  },
+  {
+    "question": "Какой оператор используется для открытия модуля и предоставления доступа к его содержимому другим модулям?",
+    "options": ["A) exports", "B) opens", "C) provides", "D) requires"],
+    "answer": "A) exports"
+  }
+]

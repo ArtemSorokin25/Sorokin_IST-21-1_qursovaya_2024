@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Что такое enum в Java?",
+    "options": ["A) Это класс", "B) Это интерфейс", "C) Это перечисление", "D) Это метод"],
+    "answer": "C) Это перечисление"
+  },
+  {
+    "question": "Как объявить enum в Java?",
+    "options": ["A) enum MyEnum { VALUE1, VALUE2, ... }", "B) class MyEnum { VALUE1, VALUE2, ... }", "C) interface MyEnum { VALUE1, VALUE2, ... }", "D) enum MyEnum ( VALUE1, VALUE2, ... )"],
+    "answer": "A) enum MyEnum { VALUE1, VALUE2, ... }"
+  },
+  {
+    "question": "Как можно использовать enum в Java?",
+    "options": ["A) Для создания конструкторов", "B) Для создания методов", "C) Для создания констант", "D) Для создания интерфейсов"],
+    "answer": "C) Для создания констант"
+  },
+  {
+    "question": "Как получить список всех значений enum в Java?",
+    "options": ["A) С помощью метода getValues()", "B) С помощью метода getConstants()", "C) С помощью метода values()", "D) С помощью метода enumerate()"],
+    "answer": "C) С помощью метода values()"
+  },
+  {
+    "question": "Как получить значение enum по его строковому представлению в Java?",
+    "options": ["A) С помощью метода valueOf()", "B) С помощью метода getValue()", "C) С помощью метода parse()", "D) С помощью метода enum()"],
+    "answer": "A) С помощью метода valueOf()"
+  },
+  {
+    "question": "Может ли содержать enum конструктор в Java?",
+    "options": ["A) Да", "B) Нет", "C) Хз", "D) ХЗ"],
+    "answer": "A) Да"
+  },
+  {
+    "question": "Может ли содержать enum методы в Java?",
+    "options": ["A) Да", "B) Нет", "C) Хз", "D) ХЗ"],
+    "answer": "A) Да"
+  }
+]

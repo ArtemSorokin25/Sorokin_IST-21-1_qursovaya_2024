@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Что такое исключение (exception) в Java?",
+    "options": ["A) Структура данных для хранения пар ключ-значение", "B) Ошибка, возникающая во время выполнения программы", "C) Специальный тип цикла", "D) Класс для работы с датами и временем"],
+    "answer": "B) Ошибка, возникающая во время выполнения программы"
+  },
+  {
+    "question": "Какой класс используется для обработки исключений в Java?",
+    "options": ["A) Exception", "B) Error", "C) Throwable", "D) RuntimeException"],
+    "answer": "A) Exception"
+  },
+  {
+    "question": "Какие ключевые слова используются для создания и обработки исключений в Java?",
+    "options": ["A) try и catch", "B) if и else", "C) for и while", "D) switch и case"],
+    "answer": "A) try и catch"
+  },
+  {
+    "question": "Какой блок кода обязателен при обработке исключений с использованием конструкции try-catch?",
+    "options": ["A) try", "B) catch", "C) finally", "D) throw"],
+    "answer": "B) catch"
+  },
+  {
+    "question": "Какие исключения являются проверяемыми (checked) исключениями в Java?",
+    "options": ["A) RuntimeException и его подклассы", "B) Exception и его подклассы, кроме RuntimeException", "C) Error и его подклассы", "D) Все исключения в Java являются проверяемыми"],
+    "answer": "B) Exception и его подклассы, кроме RuntimeException"
+  }
+]
